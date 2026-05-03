@@ -48,11 +48,6 @@ const config: Config = {
           position: 'left',
           label: 'Textbook',
         },
-        {
-          href: 'https://github.com/Ahmad8417/physical-ai-book',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
